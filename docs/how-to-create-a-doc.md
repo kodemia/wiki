@@ -1,5 +1,5 @@
 ---
-id: 1
+id: test1
 title: Como crear un documento para docusaurus
 ---
 
