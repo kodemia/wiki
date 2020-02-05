@@ -5,6 +5,9 @@
     "previous": "Previous",
     "tagline": "A website for testing",
     "docs": {
+      "test1": {
+        "title": "Como crear un documento para docusaurus"
+      },
       "pr1": {
         "title": "Primer pull request de prueba"
       }
@@ -15,9 +18,7 @@
       "Blog": "Blog"
     },
     "categories": {
-      "Docusaurus": "Docusaurus",
-      "First Category": "First Category",
-      "Second Category": "Second Category"
+      "test Category": "test Category"
     }
   },
   "pages-strings": {
