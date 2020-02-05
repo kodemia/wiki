@@ -7,6 +7,9 @@
     "docs": {
       "test1": {
         "title": "Como crear un documento para docusaurus"
+      },
+      "pr1": {
+        "title": "Primer pull request de prueba"
       }
     },
     "links": {
